@@ -1,7 +1,7 @@
-import * as THREE from '/../node_modules/three'
-import { OrbitControls } from '/../node_modules/three/examples/jsm/controls/OrbitControls.js'
-import GUI from '/../node_modules/lil-gui'
-import {GLTFLoader} from '/../node_modules/three/examples/jsm/loaders/GLTFLoader.js'
+import * as THREE from '/three'
+import { OrbitControls } from '/three/examples/jsm/controls/OrbitControls.js'
+import GUI from '/lil-gui'
+import {GLTFLoader} from '/three/examples/jsm/loaders/GLTFLoader.js'
 
 // IMPORT FILES
 
